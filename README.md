@@ -28,23 +28,23 @@ A simple browser-based chat application in .NET Core.
 | xunit.runner.visualstudio | 2.4.0 |
 
 ### Run Locally
-1) Get Code   
-* Download git repository
-* Open Solution
-2) Create Local Database
-* Open the Package Manager Console
-* Set the .DataAccess project as the Default project 
-* Run the command "Add-Migration Initial"
-* Run the command "Update-Database"
-3) Create Debug Profile 
-* Set the Web Application as the default project for the solution
-* Right click the Web Application project
-* Select Properties -> Debug
-* Select the Profile called ChatAppV1
-* Select the Project option for Launch
-* Launch a browser to Views/login.html
-* Set the App URL
-4) Run your application
+- 1) Get Code   
+	- Download git repository
+	- Open Solution
+- 2) Create Local Database
+	- Open the Package Manager Console
+	- Set the .DataAccess project as the Default project 
+	- Run the command "Add-Migration Initial"
+	- Run the command "Update-Database"
+- 3) Create Debug Profile 
+	- Set the Web Application as the default project for the solution
+	- Right click the Web Application project
+	- Select Properties -> Debug
+	- Select the Profile called ChatAppV1
+	- Select the Project option for Launch
+	- Launch a browser to Views/login.html
+	- Set the App URL
+- 4) Run your application
 
 ## Authors
 * Carlos Escobar
