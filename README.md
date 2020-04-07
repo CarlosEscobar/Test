@@ -9,7 +9,8 @@ A simple browser-based chat application in .NET Core.
 * SQL Server.
 
 ### Dependencies
-| Nugget Package | Version |
+| Nugget Package | Version 
+| ------------- | ------------- |
 | CsvHelper | 12.2.1 |
 | Microsoft.AspNetCore.App | 2.1.1 |
 | Microsoft.AspNetCore.Identity.EntityFrameworkCore | 2.1.1 |
